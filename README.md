@@ -52,6 +52,6 @@ It contains two files:
 - `DeterminingDirection.ipynb`: This file contains the latest version of both methods for detecting direction (longest distance, split boxes).
 
 ### Resources and helper files
-- `data.zip`: all originally recorded data as images
-- `data_Videos.zip`: original data converted to video format
+- [`data.zip`](https://drive.google.com/file/d/1ozhmuEixMtN4cOHGPsKv7uW4_ftRxwGH/view?usp=sharing): all originally recorded data as images
+- [`data_Videos.zip`](https://drive.google.com/file/d/1_Pyj6i_0XbKGGzbeVNkNjs4YslBSHyQz/view?usp=sharing): original data converted to video format
 - `VideoGeneration.ipynb`: helper notebook to convert still frames into a video at 10 fps.
