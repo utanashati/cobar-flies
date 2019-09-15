@@ -1,6 +1,6 @@
-# Drosophila [Real-Time] Labelling w/ Deep Learning [Using Auxiliary Losses]
+# Drosophila Labelling w/ Deep Learning + Auxiliary Losses
 as a method for
-## Investigating Genetic Manipulations As a Method to Rewire Moonwalker Neurons in Drosophila
+## Investigating Genetic Manipulations to Rewire Moonwalker Neurons in Drosophila
 ### Miniproject for Controlling Behaviour in Animals and Robots course @ EPFL, Spring 2019
 The course is taught by [Ramdya Lab](https://github.com/NeLy-EPFL).
 #### Kaleem Corbin, Kiara Davis, Olesia Altunina
@@ -52,6 +52,6 @@ It contains two files:
 - `DeterminingDirection.ipynb`: This file contains the latest version of both methods for detecting direction (longest distance, split boxes).
 
 ### Resources and helper files
-- [`data.zip`](https://drive.google.com/file/d/1ozhmuEixMtN4cOHGPsKv7uW4_ftRxwGH/view?usp=sharing): all originally recorded data as images
-- [`data_Videos.zip`](https://drive.google.com/file/d/1_Pyj6i_0XbKGGzbeVNkNjs4YslBSHyQz/view?usp=sharing): original data converted to video format
+- [`data.zip`](https://drive.google.com/file/d/1ozhmuEixMtN4cOHGPsKv7uW4_ftRxwGH/view?usp=sharing) *(GDrive)*: all originally recorded data as images
+- [`data_Videos.zip`](https://drive.google.com/file/d/1_Pyj6i_0XbKGGzbeVNkNjs4YslBSHyQz/view?usp=sharing) *(GDrive)*: original data converted to video format
 - `VideoGeneration.ipynb`: helper notebook to convert still frames into a video at 10 fps.
